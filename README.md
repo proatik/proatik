@@ -29,14 +29,15 @@ I'm a Software Engineer working at [SOFTEKO](https://www.softeko.co). I'm enthus
 
 ### Frameworks | Libraries
 
-|                                  Icon                                  |    Name     |                              Level                              |                              Type                              |
-| :--------------------------------------------------------------------: | :---------: | :-------------------------------------------------------------: | :------------------------------------------------------------: |
-|                 ![Tailwind](./images/tailwind-css.png)                 |  Tailwind   | ![Proficient](https://img.shields.io/badge/Proficient-firebric) |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
-|   ![React](https://img.icons8.com/color/48/000000/react-native.png)    |    React    | ![Proficient](https://img.shields.io/badge/Proficient-firebric) | ![Library](https://img.shields.io/badge/Library-darkslategray) |
-|                     ![Next](./images/next-js.png)                      |    Next     | ![Proficient](https://img.shields.io/badge/Proficient-firebric) |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
-| ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) | Material UI | ![Proficient](https://img.shields.io/badge/Proficient-firebric) | ![Library](https://img.shields.io/badge/Library-darkslategray) |
-|       ![Redux](https://img.icons8.com/color/48/000000/redux.png)       |    Redux    | ![Proficient](https://img.shields.io/badge/Proficient-firebric) | ![Library](https://img.shields.io/badge/Library-darkslategray) |
-|                  ![Express](./images/express-js.png)                   |   Express   | ![Proficient](https://img.shields.io/badge/Proficient-firebric) |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
+|                                  Icon                                  |    Name     |                                 Level                                 |                              Type                              |
+| :--------------------------------------------------------------------: | :---------: | :-------------------------------------------------------------------: | :------------------------------------------------------------: |
+|                 ![Tailwind](./images/tailwind-css.png)                 |  Tailwind   |    ![Proficient](https://img.shields.io/badge/Proficient-firebric)    |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
+|   ![React](https://img.icons8.com/color/48/000000/react-native.png)    |    React    |    ![Proficient](https://img.shields.io/badge/Proficient-firebric)    | ![Library](https://img.shields.io/badge/Library-darkslategray) |
+|                     ![Next](./images/next-js.png)                      |    Next     |    ![Proficient](https://img.shields.io/badge/Proficient-firebric)    |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
+| ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) | Material UI |    ![Proficient](https://img.shields.io/badge/Proficient-firebric)    | ![Library](https://img.shields.io/badge/Library-darkslategray) |
+|                  ![Express](./images/express-js.png)                   |   Express   |    ![Proficient](https://img.shields.io/badge/Proficient-firebric)    |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
+|       ![Redux](https://img.icons8.com/color/48/000000/redux.png)       |    Redux    |    ![Proficient](https://img.shields.io/badge/Proficient-firebric)    | ![Library](https://img.shields.io/badge/Library-darkslategray) |
+|                     ![Nest](./images/nest-js.png)                      |    Nest     | ![Proficient](https://img.shields.io/badge/Intermediate-mediumpurple) |  ![Framework](https://img.shields.io/badge/Framework-crimson)  |
 
 ### Databases
 
@@ -52,7 +53,7 @@ I'm a Software Engineer working at [SOFTEKO](https://www.softeko.co). I'm enthus
 | :----------------------------------------------------------------------------: | :------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 |             ![Git](https://img.icons8.com/color/48/000000/git.png)             |   Git    | ![Intermediate](https://img.shields.io/badge/Intermediate-mediumpurple) |   ![Version Control](https://img.shields.io/badge/VersionControl-orangered)   |
 |                         ![GitHub](./images/github.png)                         |  GitHub  | ![Intermediate](https://img.shields.io/badge/Intermediate-mediumpurple) |     ![Code Hosting](https://img.shields.io/badge/CodeHosting-mediumblue)      |
-|          ![Docker](https://img.icons8.com/color/48/000000/docker.png)          |  Docker  | ![Intermediate](https://img.shields.io/badge/Intermediate-mediumpurple) | ![Containerization](https://img.shields.io/badge/Containerization-dodgerblue) |
+|          ![Docker](https://img.icons8.com/color/48/000000/docker.png)          |  Docker  |    ![Intermediate](https://img.shields.io/badge/Proficient-firebric)    | ![Containerization](https://img.shields.io/badge/Containerization-dodgerblue) |
 |                       ![Terminal](./images/terminal.png)                       | Terminal | ![Intermediate](https://img.shields.io/badge/Intermediate-mediumpurple) |    ![Command Line](https://img.shields.io/badge/CommandLine-darkslategray)    |
 | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | VS Code  | ![Intermediate](https://img.shields.io/badge/Intermediate-mediumpurple) |      ![Code Editor](https://img.shields.io/badge/CodeEditor-dodgerblue)       |
 
