@@ -14,6 +14,7 @@ I'm a Software Engineer working at [SOFTEKO](https://www.softeko.co). I'm enthus
 - 🚀 [LeetCode](https://leetcode.com/u/proatik/)
 - 📧 atikullah.murad@gmail.com
 - 🌍 Uttara, Dhaka-1230, Bangladesh
+- 📞 [01950221560]()
 
 ### Languages
 
@@ -59,4 +60,4 @@ I'm a Software Engineer working at [SOFTEKO](https://www.softeko.co). I'm enthus
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=proatik&show_icons=true&locale=en&layout=compact)
 
-<a href="https://app.daily.dev/proatik"><img src="https://api.daily.dev/devcards/a745eedee319426582e2ffe6b8b2dcce.png?r=yu8" width="400" alt="Atik Ullah Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/proatik"><img src="https://api.daily.dev/devcards/v2/VB5b0ZdP4CMT4z5g7yxFa.png?type=default&r=pql" width="356" alt="Atik Ullah Khan's Dev Card"/></a>
