@@ -2,9 +2,9 @@
 
 # Hi there, I'm Atik Ullah Khan 👋
 
-I'm a Software Engineer working at [SOFTEKO](https://www.softeko.co). I'm enthusiastic about programming and software engineering, I love working with modern technologies and exploring new tools. Always on the lookout for learning opportunities to enhance my skills and improve work efficiency.
+I'm a Software Engineer or Full Stack Developer with around 2 years of experienc. I'm enthusiastic about programming and software engineering, love working with modern technologies, and enjoy exploring new tools. Always on the lookout for learning opportunities to enhance my skills and improve work efficiency.
 
-- 🦀 Currently exploring **Rust** programming language.
+- 🐹 Currently exploring **Go** programming language.
 - 🧩 Learning various **Design Patterns** to write cleaner and more efficient code.
 - 🖥️ Delving into **DevOps** practices to enhance deployment and collaboration.
 
@@ -14,7 +14,6 @@ I'm a Software Engineer working at [SOFTEKO](https://www.softeko.co). I'm enthus
 - 🚀 [LeetCode](https://leetcode.com/u/proatik/)
 - 📧 atikullah.murad@gmail.com
 - 🌍 Uttara, Dhaka-1230, Bangladesh
-- 📞 [01950221560]()
 
 ### Languages
 
